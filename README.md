@@ -11,9 +11,10 @@ A PowerShell script for monitoring status of Windows Services in real-time
 
 -Can be pointed at remote servers through command line arguments
 
+
 Instructions:
 
--Run InvokeServiceMonitor with Powershell
+-Run 'RunServiceMonitor.ps1' with Powershell
 
 Requires:
 
